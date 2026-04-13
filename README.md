@@ -11,3 +11,4 @@ LiteralScript is a compiled, high-performance programming language designed to b
 
 ---
 *Write like a human. Execute like a machine.*
+*Created by Ascension/Voltium - Began brainstorming and planning on 1/2/2026, completed version 1.0.0 on 13/4/2026.*
