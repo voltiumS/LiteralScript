@@ -6,7 +6,7 @@ LiteralScript is a compiled, high-performance programming language designed to b
 
 **Why LiteralScript?**
 - **Zero Abstraction Cost:** Human-readable syntax that compiles to raw, optimized machine code and actually helps beginners understand how coding works (a little).
-- **Built With Fast Coding Language:** This coding language was built with Rust, which is widely known for it's ease of use and performance.
+- **Built With Fast Coding Language:** This coding language was built with Rust, which is widely known for it's memory safety and performance.
 - **True Portability:** Generates universal binaries with deep hooks into the Windows and Linux system APIs.
 
 ---
