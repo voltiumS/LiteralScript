@@ -72,42 +72,14 @@ LiteralScript/
 │   ├── CHANGELOG.md
 │   └── LICENSE
 │
-├── src/                           Source code (17 modules, 6000+ lines)
-│   ├── main.rs                    CLI orchestration
-│   ├── lexer.rs                   Tokenization
-│   ├── parser.rs                  AST construction
-│   ├── semantic_analyzer.rs       Type checking & IR
-│   ├── codegen.rs                 Code generation (6 languages)
-│   ├── runtime.rs                 Interpreter
-│   ├── repl.rs                    Interactive REPL
-│   │
-│   ├── terminal.rs                Virtual shell
-│   ├── database.rs                Multi-engine database
-│   ├── gpu.rs                     GPU acceleration
-│   ├── cloud.rs                   Cloud deployment
-│   ├── filesystem.rs              Virtual filesystem
-│   ├── packages.rs                Package management
-│   ├── api.rs                     API generation
-│   │
-│   ├── network.rs                 Network protocols
-│   ├── webgen.rs                  Web generation
-│   └── desktop.rs                 Desktop apps
-│
-├── examples/                      Example programs
-│   ├── hello.literal
-│   ├── basic_demo.literal
-│   ├── sum_numbers.literal
-│   └── list_processing.literal
+├── src/            Source code (17 modules, 6000+ lines)
+NOT READY - COME BACK SOON
 │
 ├── installers/                    Installation tools
-│   ├── setup.bat                  Windows automated setup ⭐
-│   ├── install_universal.py       Cross-platform Python installer
-│   ├── build_msi.bat              Professional Windows MSI builder
-│   ├── install.sh                 Unix/Linux shell installer
-│   └── LiteralScript.wxs          WiX installer configuration
+NOT READY - COME BACK SOON
 │
 ├── tools/                         Build utilities
-│   └── build_installer.bat        Build script (legacy)
+NOT READY - COME BACK SOON
 │
 ├── .github/                       GitHub configuration
 │   └── workflows/
@@ -120,7 +92,7 @@ LiteralScript/
 │
 ├── Cargo.toml                     Project manifest
 ├── .gitignore                     Git exclusions
-└── LICENSE                        MIT License (in docs/)
+└── LICENSE                        MIT License
 ```
 
 ---
