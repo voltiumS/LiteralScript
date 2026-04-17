@@ -260,4 +260,4 @@ LiteralScript is released under the [MIT License](docs/LICENSE).
 
 **Last Updated**: April 17, 2026  
 **Current Version**: 3.0.0  
-**Next Release**: 3.1.0 (Q3 2026)
+**Next Release**: 3.1.0 (Around June 5 2026)
