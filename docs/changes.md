@@ -153,7 +153,7 @@ None - Full backward compatibility maintained
 
 ---
 
-## [2.0.0] - April 16, 2026
+## [2.0.0] - March 27, 2026
 
 ### Initial Release with Ecosystem
 
