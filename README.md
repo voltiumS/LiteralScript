@@ -215,20 +215,6 @@ For more, see [CODING_TUTORIAL.md](docs/CODING_TUTORIAL.md).
 
 ---
 
-## 📊 Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Total Lines of Code** | 6,000+ |
-| **Modules** | 17 |
-| **Functions Documented** | 110+ |
-| **Code Generation Targets** | 6 languages |
-| **Compilation Status** | 0 errors |
-| **Binary Size** | ~1 MB |
-| **Build Time** | ~4 seconds |
-
----
-
 ## 🛠 Commands
 
 ### Compiler
