@@ -50,12 +50,11 @@ All documentation is organized in the `docs/` folder:
 
 | Document | Purpose | Audience |
 |----------|---------|----------|
-| **[CODING_TUTORIAL.md](docs/CODING_TUTORIAL.md)** | **Complete guide on how to code in LiteralScript** | Everyone |
-| [QUICK_START.md](docs/QUICK_START.md) | Your first program (5 min) | Beginners |
-| [API_COMPLETE_REFERENCE.md](docs/API_COMPLETE_REFERENCE.md) | All 110+ functions documented | Developers |
-| [INSTALLATION_GUIDE.md](docs/INSTALLATION_GUIDE.md) | Detailed installation help | Users |
-| [CONTRIBUTING.md](docs/CONTRIBUTING.md) | How to contribute | Contributors |
-| [CHANGELOG.md](docs/CHANGELOG.md) | Version history | Everyone |
+| **[CODING_TUTORIAL.md](docs/coding-tutorial.md)** | **Complete guide on how to code in LiteralScript** | Everyone |
+| [QUICK_START.md](docs/quick-start.md) | Your first program (5 min) | Beginners |
+| [API_COMPLETE_REFERENCE.md](docs/api-reference.md) | All 110+ functions documented | Developers |
+| [INSTALLATION_GUIDE.md](docs/instalaltion-guide.md) | Detailed installation help | Users |
+| [CONTRIBUTING.md](docs/contributing.md) | How to contribute | Contributors |
 
 ---
 
