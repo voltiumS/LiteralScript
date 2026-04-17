@@ -2,7 +2,7 @@
 
 **Transform English into Code** — A natural language programming language that generates production code in 6 languages.
 
-![Status](https://img.shields.io/badge/status-production%20not%20ready-red)  
+![Status](https://img.shields.io/badge/status-%20not%20ready-red)  
 ![Version](https://img.shields.io/badge/version-1.0.5-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)
 
